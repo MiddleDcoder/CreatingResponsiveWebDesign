@@ -14,6 +14,15 @@
 				"buffer_size": 4724,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "bitdegree-pdf-lessons.html",
+			"settings":
+			{
+				"buffer_size": 837,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -51,6 +60,7 @@
 		"/Users/User/Desktop",
 		"/Users/User/Desktop/GOING BACK TO PROGRAMMING",
 		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer",
+		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer/2. HTML,CSS and Bootstrap - done",
 		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer/other files",
 		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer/other files/Pluralsight lessons",
 		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer/other files/Pluralsight lessons/CreatingResponsivWebDesign",
@@ -58,10 +68,12 @@
 	],
 	"file_history":
 	[
+		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer/other files/Pluralsight lessons/Front-End Web Development Get Started/javascript/AJAXlessons.html",
+		"/Users/User/Desktop/GOING BACK TO PROGRAMMING/1. Front-End Developer and Front-End Wordpress Developer/other files/bitdegree lessons/bootstrap lesssons/css lesson 7.txt"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -75,6 +87,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"myFunction()"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -98,7 +111,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -114,8 +127,8 @@
 						"selection":
 						[
 							[
-								955,
-								955
+								0,
+								4724
 							]
 						],
 						"settings":
@@ -124,7 +137,36 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 247.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bitdegree-pdf-lessons.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -135,7 +177,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -172,7 +214,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 0.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -210,7 +252,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 211.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
